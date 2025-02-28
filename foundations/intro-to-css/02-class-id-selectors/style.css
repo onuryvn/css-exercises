@@ -1,0 +1,18 @@
+.lightred {
+    background-color: rgb(218, 152, 152);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#lightgreen {
+    background-color: rgb(153, 255, 153);
+    font-weight: bold;
+}
